@@ -1,0 +1,19 @@
+[
+    
+    {
+        "domain": "checkio.org/",
+        "proto": "https"
+    },
+    {
+        "domain": "mail.ru",
+        "proto": "http"
+    },
+    {
+        "domain": "habrahabr.ru",
+        "proto": "https"
+    },
+    {
+        "domain": "football.ua",
+        "proto": "http"
+    }
+]
